@@ -1,0 +1,2 @@
+# linkscanner
+Link Scanner JS
